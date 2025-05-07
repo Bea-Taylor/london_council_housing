@@ -1,2 +1,3 @@
-# london_council_housing
-Analysis of council housing in London
+# London Council Housing 
+
+This repo contains the code to recreate the analysis and figures included in x. 
