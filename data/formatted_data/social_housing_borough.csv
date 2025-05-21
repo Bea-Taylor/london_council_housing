@@ -1,0 +1,341 @@
+Year,Planning authority,Number of proposed social housing units,Region
+2015,Barking & Dagenham,15,Outer
+2015,Barnet,8,Outer
+2015,Camden,38,Inner
+2015,Ealing,342,Outer
+2015,Hackney,17,Inner
+2015,Havering,14,Outer
+2015,Hounslow,83,Outer
+2015,Islington,320,Inner
+2015,Lambeth,174,Inner
+2015,Redbridge,6,Outer
+2015,Greenwich,0,Inner
+2015,Merton,0,Outer
+2015,Bromley,0,Outer
+2015,Southwark,0,Inner
+2015,Waltham Forest,0,Outer
+2015,Wandsworth,0,Inner
+2015,Brent,0,Outer
+2015,Croydon,0,Outer
+2015,Harrow,0,Outer
+2015,LLDC,0,Outer
+2015,Newham,0,Outer
+2015,Tower Hamlets,0,Inner
+2015,Bexley,0,Outer
+2015,Enfield,0,Outer
+2015,Hammersmith & Fulham,0,Outer
+2015,Haringey,0,Outer
+2015,Hillingdon,0,Outer
+2015,Kingston,0,Outer
+2015,Lewisham,0,Inner
+2015,Richmond,0,Outer
+2015,Sutton,0,Outer
+2015,Westminster,0,Inner
+2015,City of London,0,Inner
+2015,Kensington & Chelsea,0,Outer
+2016,Barking & Dagenham,69,Outer
+2016,Barnet,42,Outer
+2016,Camden,13,Inner
+2016,Ealing,154,Outer
+2016,Hackney,0,Inner
+2016,Havering,0,Outer
+2016,Hounslow,26,Outer
+2016,Islington,207,Inner
+2016,Lambeth,0,Inner
+2016,Redbridge,2,Outer
+2016,Greenwich,153,Inner
+2016,Merton,1,Outer
+2016,Bromley,0,Outer
+2016,Southwark,0,Inner
+2016,Waltham Forest,0,Outer
+2016,Wandsworth,0,Inner
+2016,Brent,0,Outer
+2016,Croydon,0,Outer
+2016,Harrow,0,Outer
+2016,LLDC,0,Outer
+2016,Newham,0,Outer
+2016,Tower Hamlets,0,Inner
+2016,Bexley,0,Outer
+2016,Enfield,0,Outer
+2016,Hammersmith & Fulham,0,Outer
+2016,Haringey,0,Outer
+2016,Hillingdon,0,Outer
+2016,Kingston,0,Outer
+2016,Lewisham,0,Inner
+2016,Richmond,0,Outer
+2016,Sutton,0,Outer
+2016,Westminster,0,Inner
+2016,City of London,0,Inner
+2016,Kensington & Chelsea,0,Outer
+2017,Barking & Dagenham,122,Outer
+2017,Barnet,83,Outer
+2017,Camden,2,Inner
+2017,Ealing,171,Outer
+2017,Hackney,0,Inner
+2017,Havering,0,Outer
+2017,Hounslow,23,Outer
+2017,Islington,261,Inner
+2017,Lambeth,118,Inner
+2017,Redbridge,3,Outer
+2017,Greenwich,0,Inner
+2017,Merton,0,Outer
+2017,Bromley,61,Outer
+2017,Southwark,220,Inner
+2017,Waltham Forest,7,Outer
+2017,Wandsworth,209,Inner
+2017,Brent,0,Outer
+2017,Croydon,0,Outer
+2017,Harrow,0,Outer
+2017,LLDC,0,Outer
+2017,Newham,0,Outer
+2017,Tower Hamlets,0,Inner
+2017,Bexley,0,Outer
+2017,Enfield,0,Outer
+2017,Hammersmith & Fulham,0,Outer
+2017,Haringey,0,Outer
+2017,Hillingdon,0,Outer
+2017,Kingston,0,Outer
+2017,Lewisham,0,Inner
+2017,Richmond,0,Outer
+2017,Sutton,0,Outer
+2017,Westminster,0,Inner
+2017,City of London,0,Inner
+2017,Kensington & Chelsea,0,Outer
+2018,Barking & Dagenham,145,Outer
+2018,Barnet,146,Outer
+2018,Camden,4,Inner
+2018,Ealing,36,Outer
+2018,Hackney,63,Inner
+2018,Havering,0,Outer
+2018,Hounslow,260,Outer
+2018,Islington,100,Inner
+2018,Lambeth,81,Inner
+2018,Redbridge,0,Outer
+2018,Greenwich,0,Inner
+2018,Merton,0,Outer
+2018,Bromley,70,Outer
+2018,Southwark,280,Inner
+2018,Waltham Forest,36,Outer
+2018,Wandsworth,41,Inner
+2018,Brent,252,Outer
+2018,Croydon,43,Outer
+2018,Harrow,32,Outer
+2018,LLDC,1,Outer
+2018,Newham,44,Outer
+2018,Tower Hamlets,307,Inner
+2018,Bexley,0,Outer
+2018,Enfield,0,Outer
+2018,Hammersmith & Fulham,0,Outer
+2018,Haringey,0,Outer
+2018,Hillingdon,0,Outer
+2018,Kingston,0,Outer
+2018,Lewisham,0,Inner
+2018,Richmond,0,Outer
+2018,Sutton,0,Outer
+2018,Westminster,0,Inner
+2018,City of London,0,Inner
+2018,Kensington & Chelsea,0,Outer
+2019,Barking & Dagenham,120,Outer
+2019,Barnet,399,Outer
+2019,Camden,9,Inner
+2019,Ealing,258,Outer
+2019,Hackney,19,Inner
+2019,Havering,163,Outer
+2019,Hounslow,80,Outer
+2019,Islington,0,Inner
+2019,Lambeth,20,Inner
+2019,Redbridge,0,Outer
+2019,Greenwich,302,Inner
+2019,Merton,0,Outer
+2019,Bromley,0,Outer
+2019,Southwark,445,Inner
+2019,Waltham Forest,177,Outer
+2019,Wandsworth,685,Inner
+2019,Brent,239,Outer
+2019,Croydon,12,Outer
+2019,Harrow,0,Outer
+2019,LLDC,53,Outer
+2019,Newham,33,Outer
+2019,Tower Hamlets,321,Inner
+2019,Bexley,14,Outer
+2019,Enfield,842,Outer
+2019,Hammersmith & Fulham,3,Outer
+2019,Haringey,41,Outer
+2019,Hillingdon,59,Outer
+2019,Kingston,1,Outer
+2019,Lewisham,126,Inner
+2019,Richmond,8,Outer
+2019,Sutton,87,Outer
+2019,Westminster,280,Inner
+2019,City of London,0,Inner
+2019,Kensington & Chelsea,0,Outer
+2020,Barking & Dagenham,2,Outer
+2020,Barnet,31,Outer
+2020,Camden,30,Inner
+2020,Ealing,145,Outer
+2020,Hackney,45,Inner
+2020,Havering,427,Outer
+2020,Hounslow,228,Outer
+2020,Islington,12,Inner
+2020,Lambeth,276,Inner
+2020,Redbridge,250,Outer
+2020,Greenwich,366,Inner
+2020,Merton,3,Outer
+2020,Bromley,72,Outer
+2020,Southwark,143,Inner
+2020,Waltham Forest,92,Outer
+2020,Wandsworth,39,Inner
+2020,Brent,0,Outer
+2020,Croydon,1,Outer
+2020,Harrow,2,Outer
+2020,LLDC,0,Outer
+2020,Newham,83,Outer
+2020,Tower Hamlets,44,Inner
+2020,Bexley,0,Outer
+2020,Enfield,54,Outer
+2020,Hammersmith & Fulham,46,Outer
+2020,Haringey,84,Outer
+2020,Hillingdon,14,Outer
+2020,Kingston,961,Outer
+2020,Lewisham,110,Inner
+2020,Richmond,0,Outer
+2020,Sutton,9,Outer
+2020,Westminster,450,Inner
+2020,City of London,2,Inner
+2020,Kensington & Chelsea,54,Outer
+2021,Barking & Dagenham,0,Outer
+2021,Barnet,109,Outer
+2021,Camden,91,Inner
+2021,Ealing,96,Outer
+2021,Hackney,86,Inner
+2021,Havering,6,Outer
+2021,Hounslow,838,Outer
+2021,Islington,525,Inner
+2021,Lambeth,65,Inner
+2021,Redbridge,2,Outer
+2021,Greenwich,69,Inner
+2021,Merton,262,Outer
+2021,Bromley,108,Outer
+2021,Southwark,483,Inner
+2021,Waltham Forest,86,Outer
+2021,Wandsworth,47,Inner
+2021,Brent,198,Outer
+2021,Croydon,101,Outer
+2021,Harrow,23,Outer
+2021,LLDC,56,Outer
+2021,Newham,151,Outer
+2021,Tower Hamlets,194,Inner
+2021,Bexley,351,Outer
+2021,Enfield,169,Outer
+2021,Hammersmith & Fulham,103,Outer
+2021,Haringey,625,Outer
+2021,Hillingdon,287,Outer
+2021,Kingston,0,Outer
+2021,Lewisham,94,Inner
+2021,Richmond,13,Outer
+2021,Sutton,18,Outer
+2021,Westminster,451,Inner
+2021,City of London,0,Inner
+2021,Kensington & Chelsea,62,Outer
+2022,Barking & Dagenham,15,Outer
+2022,Barnet,22,Outer
+2022,Camden,56,Inner
+2022,Ealing,539,Outer
+2022,Hackney,4,Inner
+2022,Havering,8,Outer
+2022,Hounslow,257,Outer
+2022,Islington,340,Inner
+2022,Lambeth,66,Inner
+2022,Redbridge,1,Outer
+2022,Greenwich,470,Inner
+2022,Merton,149,Outer
+2022,Bromley,55,Outer
+2022,Southwark,587,Inner
+2022,Waltham Forest,253,Outer
+2022,Wandsworth,148,Inner
+2022,Brent,90,Outer
+2022,Croydon,12,Outer
+2022,Harrow,12,Outer
+2022,LLDC,0,Outer
+2022,Newham,95,Outer
+2022,Tower Hamlets,107,Inner
+2022,Bexley,11,Outer
+2022,Enfield,44,Outer
+2022,Hammersmith & Fulham,16,Outer
+2022,Haringey,571,Outer
+2022,Hillingdon,3,Outer
+2022,Kingston,0,Outer
+2022,Lewisham,17,Inner
+2022,Richmond,11,Outer
+2022,Sutton,0,Outer
+2022,Westminster,26,Inner
+2022,City of London,0,Inner
+2022,Kensington & Chelsea,4,Outer
+2023,Barking & Dagenham,20,Outer
+2023,Barnet,15,Outer
+2023,Camden,17,Inner
+2023,Ealing,20,Outer
+2023,Hackney,1,Inner
+2023,Havering,4,Outer
+2023,Hounslow,535,Outer
+2023,Islington,19,Inner
+2023,Lambeth,86,Inner
+2023,Redbridge,103,Outer
+2023,Greenwich,214,Inner
+2023,Merton,189,Outer
+2023,Bromley,44,Outer
+2023,Southwark,407,Inner
+2023,Waltham Forest,1,Outer
+2023,Wandsworth,470,Inner
+2023,Brent,100,Outer
+2023,Croydon,41,Outer
+2023,Harrow,9,Outer
+2023,LLDC,0,Outer
+2023,Newham,63,Outer
+2023,Tower Hamlets,92,Inner
+2023,Bexley,1,Outer
+2023,Enfield,19,Outer
+2023,Hammersmith & Fulham,43,Outer
+2023,Haringey,9,Outer
+2023,Hillingdon,10,Outer
+2023,Kingston,0,Outer
+2023,Lewisham,3,Inner
+2023,Richmond,22,Outer
+2023,Sutton,16,Outer
+2023,Westminster,15,Inner
+2023,City of London,0,Inner
+2023,Kensington & Chelsea,350,Outer
+2024,Barking & Dagenham,0,Outer
+2024,Barnet,94,Outer
+2024,Camden,41,Inner
+2024,Ealing,72,Outer
+2024,Hackney,0,Inner
+2024,Havering,11,Outer
+2024,Hounslow,14,Outer
+2024,Islington,201,Inner
+2024,Lambeth,10,Inner
+2024,Redbridge,54,Outer
+2024,Greenwich,195,Inner
+2024,Merton,75,Outer
+2024,Bromley,49,Outer
+2024,Southwark,904,Inner
+2024,Waltham Forest,1,Outer
+2024,Wandsworth,176,Inner
+2024,Brent,23,Outer
+2024,Croydon,6,Outer
+2024,Harrow,0,Outer
+2024,LLDC,0,Outer
+2024,Newham,529,Outer
+2024,Tower Hamlets,701,Inner
+2024,Bexley,0,Outer
+2024,Enfield,134,Outer
+2024,Hammersmith & Fulham,77,Outer
+2024,Haringey,236,Outer
+2024,Hillingdon,83,Outer
+2024,Kingston,158,Outer
+2024,Lewisham,10,Inner
+2024,Richmond,0,Outer
+2024,Sutton,70,Outer
+2024,Westminster,0,Inner
+2024,City of London,0,Inner
+2024,Kensington & Chelsea,33,Outer
